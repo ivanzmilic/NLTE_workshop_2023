@@ -8,7 +8,7 @@
 
 ### When & Where: 4-6 September (Monday - Wednesday), Porto, Portugal, conference room of Instituto de Astrofísica e Ciências do Espaço (IA)
 
-If you did not already, fill in this form: https://forms.gle/LAxvBepDx4Ze7XD98
+If you did not already, you can fill-in this form: https://forms.gle/LAxvBepDx4Ze7XD98
 
 ### Topics of interest so far: 
 
