@@ -8,14 +8,16 @@
 
 ### When & Where: 4-6 September (Monday - Wednesday), Porto, Portugal, conference room of Instituto de Astrofísica e Ciências do Espaço (IA)
 
-If you did not already, you can fill-in this form: https://forms.gle/LAxvBepDx4Ze7XD98
+If you did not already, you can fill in this form: https://forms.gle/LAxvBepDx4Ze7XD98
 
 ### Topics of interest so far: 
 
 - Multi-dimensional inversions with scattering (Stepan)
 - Importance of NLTE hydrogen ionization for temperature inference (Osborne, Pastor Yabar)
-- Inter-comparison and systematics between the inversion codes (del Pino Aleman)
+- Organized comparison of 8542 inversions (Guided by Gafeira, everyone can participate).
 - Non-standard atmospheric and perturbation parametrization (OLA, SVD, etc; Agrawal & Rast)
+- Flare inversions (Kuckein)
+- Temperature-free chromospheric inversions (Milic)
 - *Feel free to suggest more topics!*
 
 ### Accommodation, travel, and other logistics:
