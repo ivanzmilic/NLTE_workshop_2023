@@ -10,6 +10,8 @@
 
 If you did not already, you can fill in this form: https://forms.gle/LAxvBepDx4Ze7XD98
 
+## NEW: Preliminary program: https://docs.google.com/spreadsheets/d/e/2PACX-1vT3v0QeD206XP6ntByAsE5R5s7Hsg2FJPmTvw-M7qoncI23ZHI1h1Bv30reTWaWwEvy5KS3wtG2x1vL/pubhtml?gid=0&single=true
+
 ### Topics of interest so far: 
 
 - Multi-dimensional inversions with scattering (Stepan)
